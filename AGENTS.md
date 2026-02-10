@@ -32,6 +32,5 @@ Co-Authored-By: (the agent model's name and attribution byline)
 - `/seer` — Natural language queries against Sentry. See `commands/seer.md`
 
 ## Key Conventions
-- SKILL.md frontmatter: `name` and `description` only (no `allowed-tools`)
+- SKILL.md frontmatter: `name` and `description` only
 - MCP config at root as `mcp.json` (not `.mcp.json`)
-- No `.claude/` directory — this is a Cursor plugin, not Claude Code

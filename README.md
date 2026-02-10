@@ -76,15 +76,19 @@ sentry-for-cursor/
 │   ├── plugin.json           # Plugin metadata
 │   └── marketplace.json      # Marketplace listing
 ├── mcp.json                  # MCP server configuration
+├── AGENTS.md                 # Agent instructions
 ├── commands/
 │   └── seer.md               # /seer command
-└── skills/
-    ├── sentry-code-review/
-    ├── sentry-ios-swift-setup/
-    ├── sentry-setup-ai-monitoring/
-    ├── sentry-setup-logging/
-    ├── sentry-setup-metrics/
-    └── sentry-setup-tracing/
+├── skills/
+│   ├── sentry-code-review/
+│   ├── sentry-ios-swift-setup/
+│   ├── sentry-setup-ai-monitoring/
+│   ├── sentry-setup-logging/
+│   ├── sentry-setup-metrics/
+│   └── sentry-setup-tracing/
+├── assets/
+│   └── logo.svg              # Plugin logo
+└── LICENSE
 ```
 
 ## License
